@@ -1,3 +1,5 @@
+This is AndroidAPS 3.3.2.1 with new code. The new code adds Eversense CGM to allow "SMB Always". This also removes the annoying yellow triangle and red version # from the home screen. This code also has no version check & never expires. This build has an option to "fake" the objective time and progress. You need to use the Esel version 3.0.4 app to send the BG readings from the official Eversense app to AAPS. Select MM640G in the AAPS app CGM comfiguration menu. Look in the "AndroidAPS Documents" for additional help.
+
 # AAPS
 * Check the wiki: https://wiki.aaps.app
 *  Everyone who’s been looping with AAPS needs to fill out the form after 3 days of looping  https://docs.google.com/forms/d/14KcMjlINPMJHVt28MDRupa4sz4DDIooI4SrW0P3HSN8/viewform?c=0&w=1
